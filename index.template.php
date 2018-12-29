@@ -323,7 +323,7 @@ function template_body_below()
 					<p class="loadtime smalltext">', $txt['page_created'], $context['load_time'], $txt['seconds_with'], $context['load_queries'], $txt['queries'], '</p>';
 	    echo '
 		        </div>
-		        <div class="my_copyright"><a href="https://www.hostpas.com" target="_blank">HostPas</a></div>
+		        <div class="my_copyright"><a href="https://www.simpleforums.net/" target="_blank">Simple Forums</a></div>
 				<div id="btop"><a href="#top"><img src="'.$settings['images_url'].'/theme/uparrow.png" alt="Top" /></a></div>
 	        </div>', !empty($settings['forum_width']) ? '
 	    </div>
